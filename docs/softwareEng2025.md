@@ -4,6 +4,8 @@ title: "software Eng. lecture note"
 permalink: /docs/softwareEng2025
 ---
 
+# ソフトウェア工学 2025
+
 ## 第1回
 ### 講義「ソフトウェア工学」の到達目標，授業内容，講義スケジュールや評価方法について．
 ## 第2回
